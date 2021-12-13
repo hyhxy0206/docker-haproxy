@@ -1,2 +1,2 @@
-# docker-haproxy.tar
-Dockerfile构建haproxy镜像基于centos镜像
+# docker-haproxy
+Dockerfile构建haproxy镜像基于centos镜像涉及的脚本都要给执行权限
